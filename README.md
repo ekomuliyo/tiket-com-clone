@@ -1,4 +1,4 @@
-# trip_app
+# tiket-com-clone
 
 A new Flutter project.
 
